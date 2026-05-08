@@ -1,7 +1,16 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.103.0, Added The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.104.0, The Middle Big Brother Heathcliff, Ricardo & Werner Missing Speech Bubbles Added!
+## The Old Installers (below v1.5) are falsely getting flagged as virus, Be sure to get the Latest Updated Ver. For the Fix! [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) (Follow instructions below, if first-time installing/using.)
 
 <details>
   <summary><h3>Changelogs (Click To Expand!)</h3></summary>
+
+  ### v1.104.0
+  - Added Speech Bubbles to The Middle Big Brother Heathcliff. (COMPLETE AND TOTAL EXTERMINATION!!)
+  - Fixed Liu Rodion's S3 line typo.
+  - Added Ricardo & Werner Untranslated missing Speech Bubbbles Voicelines. (Pm forgot peak)
+  - Sweepers also have untranslated voicelines during battle but they are filtered and i have no idea how to unfilter them. (no unfiltered versions anywhere in the files too)
+  - Fixed wrong voiceline Ids for Ricardo & Werner (Hotfix 4)
+  - Shortened Bigbro Heathcliff Substitued In VL (Hotfix 5)
 
   ### v1.103.0
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.
@@ -56,6 +65,7 @@
     <img width="256" height="198" alt="image" src="https://github.com/user-attachments/assets/9e84b5dd-d3cb-4bee-b90d-3974f47252f7" />
 
 3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+  - Check the **Original Method** below if you don't know where the `LimbusCompany_Data` folder is.
   - If you see this, click `More Info` and `Run Anyway` (It's cause its not a signed app from a known publisher which costs money.)
     <img width="531" height="191" alt="image" src="https://github.com/user-attachments/assets/8861a243-b115-4d49-8f03-9342a50340de" />
     <img width="529" height="491" alt="image" src="https://github.com/user-attachments/assets/0affab0b-3ec7-4624-95b2-46a8a4b96744" />
@@ -63,7 +73,7 @@
 5. The mod should now be installed and updated to latest!
 6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
 - The installer will not install any Font files if it detects that the `Font` folder already exists.
-- If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first, or do the Original Method.
+- If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first, or do the **Original Method.**
 - Don't forget the Launch Setup below, if installing for the first-time.
 
 ## Using the Original Method:
