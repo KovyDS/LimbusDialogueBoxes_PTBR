@@ -1293,7 +1293,73 @@
     "dlg": "Nyau é... inxetinho!"
   },
 
+  {	
+    "id": "7SV-BV-022",
+    "desc": "##### Ricardo Bokgak ####",
+    "dlg": "Já chega."
+  },
+  {	
+    "id": "7SV-BV-023-1",
+    "desc": "",
+    "dlg": "Sem mais..."
+  },
+  {	
+    "id": "7SV-BV-023-2",
+    "desc": "",
+    "dlg": "... testes!"
+  },
+  {	
+    "id": "7SV-BV-024-2",
+    "desc": "",
+    "dlg": "Eu trago pra você..."
+  },
+  {	  
+    "id": "7SV-BV-024-3",
+    "desc": "",
+    "dlg": "... o sofrimento prometido!!"
+  },
+  {	
+    "id": "7SV-BV-025",
+    "desc": "",
+    "dlg": "Deixa a retaguarda comigo."
+  },
+  {	
+    "id": "7SV-BV-025-01",
+    "desc": "",
+    "dlg": "Deixa a retaguarda... comigo."
+  },
 
+  {	
+    "id": "7SV-BV-026",
+    "desc": "####### Werner Bokgak #####",
+    "dlg": "Foi mal... Irmãozão...!"
+  },
+
+  {	
+    "id": "7SV-BV-028_3",
+    "desc": "",
+    "dlg": "Eu vou te esmagar!"
+  },
+  {	
+    "id": "7SV-BV-029_1",
+    "desc": "",
+    "dlg": "A Vingança...!"
+  },
+  {	
+    "id": "7SV-BV-029_2",
+    "desc": "",
+    "dlg": "... Aguarda..."
+  },
+  {	
+    "id": "7SV-BV-029_3",
+    "desc": "",
+    "dlg": "... para todos vocês!"
+  },
+  {	
+    "id": "7SV-BV-030",
+    "desc": "",
+    "dlg": "... Vingança..."
+  },
 	
 	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
