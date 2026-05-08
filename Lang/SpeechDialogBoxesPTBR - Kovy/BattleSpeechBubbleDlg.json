@@ -3,282 +3,282 @@
     {
       "id": "battle_speechbubble_cromer_1",
       "desc": "말풍선 특수 대사_크로머",
-      "dlg": "Aah... Could it... You're...\nMy Sinclair...?"
+      "dlg": "Aah... Será que... você é o...\nMeu Sinclair...?"
     },
     {
       "id": "battle_speechbubble_10808_1",
       "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
-      "dlg": "All my fault, you say...? What fault?\nI daresay it's all thanks to me."
+      "dlg": "Minha culpa, você diz...? Que culpa?\nEu diria que foi tudo graças à mim."
     },
     {
       "id": "battle_speechbubble_10408_1",
       "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
-      "dlg": "S.A.D.\nYou're a failure of a Chief Butler."
+      "dlg": "T.R.I.S.T.E.\nVocê é uma falha de um Mordomo-Chefe."
     },
     {
       "id": "battle_react_10710_1",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Quite the pathetic reception!"
+      "dlg": "Uma recepção verdadeiramente patética!"
     },
     {
       "id": "battle_react_10710_2",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "... I'll gouge out your\ncontemptuous eyes."
+      "dlg": "... Eu vou arrancar esses seus\nolhos desdenhosos."
     },
     {
       "id": "battle_react_10710_3",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Do you still fail to understand?\nThat you... are nothing but prey!"
+      "dlg": "Você ainda não entende?\nQue você... é nada além de uma presa!"
     },
     {
       "id": "battle_react_10710_4",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "A soaking wet mutt, are you now?\nOh, does this not remind you of\nthe day I took your place?! HAHAHAHA!"
+      "dlg": "Virou um vira-lata molhado e encharcado agora, não é?\nAh, isso não te lembra\ndo dia em que tomei seu lugar?! HAHAHAHA!"
     },
     {
       "id": "battle_react_10710_5",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Hmph, how dare you glorified\ndishwashers bare your knives at me?"
+      "dlg": "Hmph, como ousam seus\nlavadores-de-louça glorificados sacar suas facas à mim?"
     },
     {
       "id": "battle_react_10710_6",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Catherine...?! It's me, Heathcliff...!\nPlease, embrace me once again!!!"
+      "dlg": "Catherine...?! Sou eu, Heathcliff...!\nPor favor, me abrace mais uma vez!!!"
     },
     {
       "id": "battle_react_10710_7",
       "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "It matters not what kind of Heathcliff you are!\nI shall embrace every Catherine mine!!!"
+      "dlg": "Não importa que tipo de Heathcliff você é!\nEu vou abraçar toda Catherine como minha!!!"
     },
     {
       "id": "battle_react_10310_10",
       "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "... You gave up your dream for the Family? \nYou, who preached about your\ndream with every breath...?"
+      "dlg": "... Você desistiu dos seus sonhos pela família?\nVocê, que ficou pregado por esse\nsonho com cada suspiro que deu...?"
     },
     {
       "id": "battle_react_10310_11",
       "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "No... she is not like my sister."
+      "dlg": "Não... ela não é como minha irmã."
     },
     {
       "id": "battle_react_10310_12",
       "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as well, I suppose..."
+      "dlg": "Você ousa erguer sua lâmina contra um Membro superior?\nO castigo por sua impiedade filial o aguarda.\n... E para mim também, eu suponho..."
     },
     {
       "id": "battle_react_10310_13",
       "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "Those wounds... the Priest of this world\nmust be just as haunted by guilt."
+      "dlg": "Essas feridas... o Padre desse mundo\ndeve estar tão atormentado pela culpa quanto."
     },
     {
       "id": "battle_1137_FirstKill",
       "desc": "말풍선 특수 대사_가치우_첫킬",
-      "dlg": "I expect you to fight to your deaths in this\ncrucial struggle, reversible as they may be."
+      "dlg": "Espero que vocês lutem até a morte nesta\nluta crucial, por mais reversível que seja."
     },
     {
       "id": "8SV-015",
       "desc": "가치우사용 시 대사 ",
-      "dlg": "Unearth it."
+      "dlg": "Desenterre-o."
     },
     {
       "id": "8SV-016",
       "desc": "가치우홍루 강제 타겟팅 1",
-      "dlg": "It must lie there still, shrouded it may be."
+      "dlg": "Ainda deve estar lá, rodeada de mistério."
     },
     {
       "id": "8SV-017",
       "desc": "가치우홍루 강제 타겟팅 2",
-      "dlg": "Shall it remain buried still?"
+      "dlg": "Será que deverá permanecer enterrado para sempre?"
     },
     {
       "id": "8SV-018",
       "desc": "가치우홍루 강제 타겟팅 합 패배",
-      "dlg": "Demonstrate to me your will."
+      "dlg": "Me demonstre sua vontade."
     },
     {
       "id": "8SV-019",
       "desc": "가치우홍루 강제 타겟팅 합 승리",
-      "dlg": "The mass of pain within your heart... is difficult to untangle."
+      "dlg": "A massa de dor dentro do seu coração... é difícil de desatar."
     },
     {
       "id": "8SV-020",
       "desc": "가치우광역기 사용시",
-      "dlg": "Is it your companions who hold your tongue?\nThen... perhaps they must be shaken afore\nyou are to speak your truth."
+      "dlg": "São seus companheiros que seguram sua língua?\nEntão... talvez eu deveria abalar eles para que\nvocê diga a sua verdade."
     },
     {
       "id": "8SV-021",
       "desc": "가치우광역기  합 패배 후 다음턴",
-      "dlg": "Do not fear the futility. There will be time for that once you have spoken your mind."
+      "dlg": "Não tema a futilidade. Haverá tempo para isso depois que você tiver expressado sua opinião."
     },
     {
       "id": "8SV-022",
       "desc": "가치우대상 처치시",
-      "dlg": "Rest awhile... until the clock turns."
+      "dlg": "Descanse um pouco... até o relógio girar."
     },
     {
       "id": "8SV-023",
       "desc": "가치우묘 부리기",
-      "dlg": "Cut them Down, Mao."
+      "dlg": "Corte-os, Mao."
     },
     {
       "id": "8SV-024",
       "desc": "가치우자로 소환",
-      "dlg": "Heed Me, Zilu."
+      "dlg": "Me ouça, Zilu."
     },
     {
       "id": "8SV-025",
       "desc": "뇌횡",
-      "dlg": "Huh... y'all ain't half bad!\nKeep makin' it worth my bullet fees!"
+      "dlg": "Heh... cês num são de todo ruim não!\nContinuem assim que tá valeno cada bala que eu gasto!"
     },
     {
       "id": "8SV-026",
       "desc": "뇌횡사용 시: 탄환 충분 - 강력한 스킬",
-      "dlg": "Eyes up here, boys!\nDon'tcha go losin' yer heads now!"
+      "dlg": "Óia pra cá, cabras!\nNum vão perdê a cabeça agora não!"
     },
     {
       "id": "8SV-027",
       "desc": "뇌횡사용 시: 탄환 부족 - 강력한 스킬",
-      "dlg": "Hwell, what's this? Manageable so far?"
+      "dlg": "Oia... que que é isso? Tá dando conta por enquanto, hein?"
     },
     {
       "id": "8SV-028",
       "desc": "뇌횡턴 시작 : 매우 강력한 스킬",
-      "dlg": "I'maboutta drop somethin' big on y'all!\nDon't let it kill y'all now and spoil the fun!"
+      "dlg": "Se aprumem aí que eu vô largá um trem grande em cima de ocês!\nNum deixem isso acabá com a brincadeira não, viu!"
     },
     {
       "id": "8SV-029",
       "desc": "뇌횡합 승리 : 매우 강력한 스킬",
-      "dlg": "Aw heck, don't tell me\ny'all are tuckered out already!"
+      "dlg": "Ish... num me diga\nque ocês já tão tudo cansado, já!"
     },
     {
       "id": "8SV-030",
       "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 획득",
-      "dlg": "That's more like it.\nY'all are firin' me up!"
+      "dlg": "Aí sim, é disso que eu tô falando!\nOcês tão é me atiçando pra briga!"
     },
     {
       "id": "8SV-031",
       "desc": "뇌횡사용 시 : [체력 n% 이하] 필살기(",
-      "dlg": "Y'all don't go on huntin' tigers without preparin'\nyerselves to get chomped 'tween one of them jaws!"
+      "dlg": "Ocês num saem por aí caçando onça sem tá pronto\npra levá uma dentada dessas não!"
     },
     {
       "id": "8SV-032",
       "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 변경",
-      "dlg": "Can't leave a dance unfinished.\nAin't that right?"
+      "dlg": "Num se larga uma dança pela metade não.\nNum é verdade?"
     },
     {
       "id": "8SV-034",
       "desc": "가환E.G.O 침식률 n 이상",
-      "dlg": "Can't waste any more time on these...\n... sickening, revolting insects."
+      "dlg": "Não posso gastar mais tempo nesses...\n... insetos, revoltantes e nojentos."
     },
     {
       "id": "8SV-035",
       "desc": "가환홍루메인타겟",
-      "dlg": "Don’t pretend you’ve changed.\nYou’re still the same trash you were back then... scum!"
+      "dlg": "Não finja que mudou.\nVocê ainda é o mesmo lixo de antigamente... verme!"
     },
     {
       "id": "8SV-036",
       "desc": "가환경멸나선모드",
-      "dlg": "... Is this also the E.G.O's power?"
+      "dlg": "... Será que isso também é o poder do E.G.O.?"
     },
     {
       "id": "8SV-037",
       "desc": "가환광역기사용시",
-      "dlg": "Behold! This contempt!\nIt rains down upon the disgusting filth!"
+      "dlg": "Contemplem! Esse desprezo!\nEle cai como chuva sobre essa imundície repugnante!"
     },
     {
       "id": "8SV-038",
       "desc": "가환전투시작 : n인이상이 자신을 타겟",
-      "dlg": "Foolishness."
+      "dlg": "Tolice."
     },
     {
       "id": "8SV-039",
       "desc": "구보E.G.O 침식률 10 이상",
-      "dlg": "You have taken a glimpse of yesterday's spring.\nA memory rarely availed to even myself."
+      "dlg": "Você já vislumbrou a primavera de ontem.\nUma lembrança raramente acessível até mesmo pra mim."
     },
     {
       "id": "8SV-040",
       "desc": "구보난사 패턴 진입",
-      "dlg": "Do not let your past ties ruin your judgment.\nIt makes me want to blast them all away."
+      "dlg": "Não deixe que seus laços passados mudem seu julgamento.\nIsso só me dá vontade de acabar com todos eles."
     },
     {
       "id": "8SV-041",
       "desc": "구보아군 살해 패턴 진입",
-      "dlg": "Sacrifices are necessary\nin pursuit of the greater cause."
+      "dlg": "Sacrifícios são necessários\nem busca de uma causa maior."
     },
     {
       "id": "8SV-042",
       "desc": "구보체력 n% 미만 / 경멸 나선 모드 감상",
-      "dlg": "... Whew. That worked."
+      "dlg": "... Ufa. Funcionou."
     },
     {
       "id": "8SV-051",
       "desc": "가모사용 시 : 홍루 가두기",
-      "dlg": "Fulfill your worth!"
+      "dlg": "Realize o seu valor!"
     },
     {
       "id": "8SV-052",
       "desc": "가모사용 시 : 홍루 가두기 실패",
-      "dlg": "You dare!"
+      "dlg": "Você ousa!"
     },
     {
       "id": "8SV-053",
       "desc": "가모턴 시작 : 보옥 생성",
-      "dlg": "Oh, revered Xianren! Shi Miyin brought the gem back!\nThe pretty gem that'll make Hongyuan all beautiful again…!"
+      "dlg": "Ó, venerado Xianren! Shi Miyin trouxe a joia de volta!\nA linda joia que deixará Hongyuan toda bela novamente…!"
     },
     {
       "id": "8SV-054",
       "desc": "가모턴 시작 : 보옥 파괴",
-      "dlg": "Blasphemous transgressors!\nOutsiders shall not covet the treasure of Daguanyuan!"
+      "dlg": "Transgressores blasfemos!\nForasteiros não cobiçarão o tesouro de Daguanyuan!"
     },
     {
       "id": "8SV-055",
       "desc": "가모사용 시 : 버프 받기",
-      "dlg": "You favor me, don't you?\nI knew you would, dear Xianhuang Worm!"
+      "dlg": "Você me favorece, não é?\nEu sabia que sim, querido Verme Xianhuang!"
     },
     {
       "id": "8SV-056",
       "desc": "가모가마 체력 0",
-      "dlg": "NO!!!!!!"
+      "dlg": "NÃO!!!!!!"
     },
     {
       "id": "8SV-057",
       "desc": "가모사용 시 : 어르신 나무 소환",
-      "dlg": "All the wisdom of Hongyuan...\nGive it to me, give it to Miyin...!"
+      "dlg": "Toda a sabedoria Hongyuan...\nMe dê, dê à Miyin...!"
     },
     {
       "id": "8SV-058",
       "desc": "가모사용 시 : 어르신 나무 흡수",
-      "dlg": "Be one with the fathomless history of Hongyuan!"
+      "dlg": "Seja um com a história insondável de Hongyuan!"
     },
     {
       "id": "8SV-059",
       "desc": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
-      "dlg": "We have transcended the yoke of life and death...\nThus, Hongyuan shall shine for all eternity as well!"
+      "dlg": "Nós transcendemos o jugo da vida e da morte...\nSó assim, Hongyuan brilhará por toda a eternidade!"
     },
     {
       "id": "8SV-060",
       "desc": "가모턴 시작 : 지고한 불사 흐트러짐",
-      "dlg": "Ahh... What a shameful failure of duties this is..."
+      "dlg": "Ah... Que vergonhosa falha de cumprimento de deveres que isso tudo foi..."
     },
     {
       "id": "8SV-061",
       "desc": "가모사용 시 : 강한 광역기",
-      "dlg": "You will obey us!"
+      "dlg": "Você vai nos obedecer!"
     },
     {
       "id": "6SV-018-02",
       "desc": "증오의 여왕 피격",
-      "dlg": "Ow...!"
+      "dlg": "Ai...!"
     },
     {
       "id": "6SV-019-003",
       "desc": "증오의 여왕 타격",
-      "dlg": "With Love!"
+      "dlg": "Com Amor!"
     },
     {
       "id": "6SV-019-004",
       "desc": "증오의 여왕 타격",
-      "dlg": "In the Name of Justice!"
+      "dlg": "Em Nome Da Justiça!"
     },
     {
       "id": "6SV-020-001",
@@ -293,32 +293,32 @@
     {
       "id": "6SV-020-002",
       "desc": "증오의 여왕 타격",
-      "dlg": "Disappear~"
+      "dlg": "Desapareça~"
     },
     {
       "id": "6SV-021",
       "desc": "증오의 여왕 첫 등장",
-      "dlg": "In the name of Love and Justice~ Here comes Magical Girl!"
+      "dlg": "Em nome do Amor e da Justiça~ Aqui vem a Garota Mágica!"
     },
     {
       "id": "6SV-022",
       "desc": "절망의 기사 첫 흐트러짐 이후 검 소환 패턴에 진입했을 때",
-      "dlg": "So you’ve been consumed too, senpai… Can this cycle really not be stopped?"
+      "dlg": "Então você também foi consumida, senpai… Será que esse ciclo realmente não pode ser parado de alguma forma?"
     },
     {
       "id": "6SV-023",
       "desc": "아르카나 슬레이브 차징 시작 시",
-      "dlg": "Heed me, thou that are more azure than justice and more crimson than love…"
+      "dlg": "Me escute, tu que és mais azul que a justiça e mais carmesim que o amor…"
     },
     {
       "id": "6SV-024",
       "desc": "아르카나 슬레이브 차징 중",
-      "dlg": "In the name of those buried in destiny, I shall make this oath to the light."
+      "dlg": "Em nome daqueles que estão sepultados no destino, farei este juramento à luz."
     },
     {
       "id": "6SV-025",
       "desc": "아르카나 슬레이브 차징 중",
-      "dlg": "Mark the hateful beings who stand before us;\nlet your strength merge with mine, \nso that we may deliver the power of love to all!"
+      "dlg": "Observe os seres odiosos que estão diante de nós;\nque sua força se una à minha,\npara que possamos levar o poder do amor a todos!"
     },
     {
       "id": "6SV-026",
@@ -328,142 +328,142 @@
     {
       "id": "6SV-027",
       "desc": "제압 완료 후 퇴각 대사",
-      "dlg": "You've... been suppressing it as much as you could..."
+      "dlg": "Você... ficou suprimindo isso o máximo que pôde..."
     },
     {
       "id": "6SV-028",
       "desc": "완전 제압 X, 아르카나 슬레이브 발사 후",
-      "dlg": "Huff, puff, puff... Did... did we get her?!"
+      "dlg": "Huff, puff, puff... A gente... A gente pegou ela?!"
     },
     {
       "id": "6SV-029",
       "desc": "빈사 퇴각",
-      "dlg": "I swore I would... protect everyone... to the end…"
+      "dlg": "Eu prometi que eu iria... protejer todo mundo... até o fim…"
     },
     {
       "id": "6SV-001_1",
       "desc": "시간살인마 피격1",
-      "dlg": "Ow, that hurts!"
+      "dlg": "Ai, isso machuca!"
     },
     {
       "id": "6SV-001_2",
       "desc": "시간살인마 피격2",
-      "dlg": "\"Couldn't you have dodged that, you oaf?!\""
+      "dlg": "\"Você não podia ter evitado isso, seu imundo?!\""
     },
     {
       "id": "6SV-001_3-03",
       "desc": "시간살인마 피격4",
-      "dlg": "Oh!\n\"Blimey...\""
+      "dlg": "Oh!\n\"Cacete...\""
     },
     {
       "id": "6SV-002_2",
       "desc": "시간살인마 공격1",
-      "dlg": "We'll rip you up."
+      "dlg": "A gente vai te despedaçar."
     },
     {
       "id": "6SV-002_3",
       "desc": "시간살인마 공격3",
-      "dlg": "You were going to kill that time anyway."
+      "dlg": "Você ia matar esse tempo de qualquer jeito.."
     },
     {
       "id": "6SV-003_1",
       "desc": "시간살인마 첫 등장",
-      "dlg": "We can't rip their time...?\n\"You bloody fool!\"\n\"We've been had!\""
+      "dlg": "Não podemos roubar o tempo deles...?\n\"Seu idiota!\"\n\"Nós fomos enganados!\""
     },
     {
       "id": "6SV-004_1",
       "desc": "시간살인마 재 등장",
-      "dlg": "We reap the dying hours.\n\"You've plenty o' time! Give it!\"\n\"Let's sever 500... no, 2000 hours.\"\n\"Get a grip, you muppet!\""
+      "dlg": "Nós colhemos as últimas horas.\n\"Você tem muito tempo! Me dá!\"\n\"Vamos cortar 500... não, 2000 horas.\"\n\"Se toca, seu tolo!\""
     },
     {
       "id": "6SV-005_1",
       "desc": "시간살인마 2페이즈",
-      "dlg": "\"Damn... let's end this.\"\n\"You're taking too much time from us...!\"\nThe benefits will outweigh the costs. Calm down."
+      "dlg": "\"Droga... vamo acabar com isso.\"\n\"Você tá tomando muito tempo da gente...!\"\nOs benefícios vão superar os custos. Se acalme."
     },
     {
       "id": "6SV-006_1",
       "desc": "시간살인마 시간 살인 시간 사용전",
-      "dlg": "We have no choice but to use it.\n\"Make sure your arithmetics are correct. Equal hours from everyone!\""
+      "dlg": "A gente não tem escolha a não ser usa-lo.\n\"Certifique-se de que seus cálculos estejam corretos. Horas iguais para todos!\""
     },
     {
       "id": "6SV-007",
       "desc": "시간살인마 시간 살인 시간 사용",
-      "dlg": "We'll... cut you up."
+      "dlg": "A gente vai... picotar você todinho."
     },
     {
       "id": "6SV-008",
       "desc": "시간살인마 시간 살인 시간 사용후",
-      "dlg": "Shut— Shut up! We're infighting...! This is a waste of time!"
+      "dlg": "Cala— Cala a boca! A gente tá em conflito interno...! Isso é uma baita de perca de tempo!"
     },
     {
       "id": "battle_react_noVoice_10613_1",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_사화정",
-      "dlg": "I don't recall this candidate... Hm, all kinds of sorry churls seem to vie for the seat of the Hierarch in this place they call a mirror world."
+      "dlg": "Não me lembro desse candidato... Hm, parece que todo tipo de patife desprezível disputa o cargo de Hierarca neste lugar que chamam de mundo espelhado."
     },
     {
       "id": "battle_react_noVoice_10613_2",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
-      "dlg": "This is no place for something so insignificant as family. You, who are causeless and hollow of vision toward Hongyuan, do not belong here."
+      "dlg": "Este não é lugar para algo tão insignificante quanto a família. Você, que é desprovido de propósito e tem uma visão vazia em relação a Hongyuan, não pertence a este lugar."
     },
     {
       "id": "battle_react_noVoice_10613_3",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_사사정",
-      "dlg": "Benighted is this fool. One need not coerce others to lay down their lives, for the pursuit of a great cause naturally begets those who would gladly brave death itself."
+      "dlg": "Esse é um tolo. Não é preciso coagir outros a darem a vida, pois a busca por uma grande causa naturalmente gera aqueles que de bom grado enfrentariam a própria morte."
     },
     {
       "id": "battle_react_noVoice_10613_4",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_설반",
-      "dlg": "For all that disinclination toward violence, you seem to have a passing talent for it nonetheless. Even a pathetic craven becomes... a madman when swept up by the flow."
+      "dlg": "Apesar de toda essa aversão à violência, você parece ter um talento passageiro para ela. Até mesmo um covarde patético se torna... um louco quando arrastado pela correnteza."
     },
     {
       "id": "battle_react_noVoice_10613_5",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_사이화",
-      "dlg": "Behold the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable."
+      "dlg": "Contemplem o tolo, o bobo da corte; ele brada em vão para o céu, mas o paraíso permanece tão inalcançável quanto antes."
     },
     {
       "id": "battle_react_10613_6",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
-      "dlg": "Ha... ha ha! I shall always welcome another opportunity to cut down these ancient demons who have been seduced by immortality!"
+      "dlg": "Ha... ha ha! Sempre acolherei com entusiasmo outra oportunidade para derrotar esses demônios ancestrais que foram seduzidos pela imortalidade!"
     },
     {
       "id": "battle_react_10613_7",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
-      "dlg": "Keep twisting in that filth, Shi Miyin... It'll only enhance the taste of happiness, wrath, sorrow, and joy when I cleave into you!"
+      "dlg": "Continue se contorcendo nessa imundície, Shi Miyin... Isso só intensificará o sabor da felicidade, da ira, da tristeza e da alegria quando eu me apoderar de você!"
     },
     {
       "id": "battle_react_10613_8",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
-      "dlg": "I never thought I'd ever see you in Hongyuan again, big brother... Fuhu, so in this world, you managed to survive. You seem to be carving out your own path much like myself."
+      "dlg": "Nunca pensei que voltaria a te ver em Hongyuan, irmãozão... Fuhu, então você conseguiu sobreviver neste mundo. Parece que você está trilhando seu próprio caminho, assim como eu."
     },
     {
       "id": "battle_react_10613_9",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
-      "dlg": "Phew... okay, fine. Then...\nAs the Lord of Hongyuan, I hereby grant you audience."
+      "dlg": "Ufa... ok, tudo bem. Então...\nComo o Lorde de Hongyuan, concedo-lhe audiência."
     },
     {
       "id": "battle_react_10613_10",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가환",
-      "dlg": "Avenging Jia Huan shouldn't affect you this much now, should it...? When did this revolting display of belated melodrama replace your advocacy for the cold and calculating pragmatism you had discussed before me?"
+      "dlg": "A vingança contra Jia Huan não deveria afetá-lo tanto agora, deveria...? Quando foi que essa demonstração repugnante de melodrama tardio substituiu sua defesa do pragmatismo frio e calculista que você havia discutido antes de mim?"
     },
     {
       "id": "battle_react_10613_701",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
-      "dlg": "Never did I let this sickening cradle imprison me, and that will not change today! Never!"
+      "dlg": "Nunca deixei que esse berço repugnante me aprisionasse, e isso não vai mudar hoje! Nunca!"
     },
     {
       "id": "battle_react_10613_901",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
-      "dlg": "Fascinating. Why was I not told that such interesting dialogues could be had with him in this world?"
+      "dlg": "Fascinante. Por que não me disseram que diálogos tão interessantes poderiam ser mantidos com ele neste mundo?"
     },
     {
       "id": "battle_react_10613_902",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
-      "dlg": "You assert that education of humanity and propriety is what cleanses the years of fell deeds? The first step seems to have eluded you: absolutely pulverize the fell deeds. Only then shall humanity and propriety have any significance."
+      "dlg": "Você afirma que a educação em humanidade e decoro é o que purifica anos de atos nefastos? O primeiro passo parece ter lhe iludido: pulverizar completamente esses atos nefastos. Só então a humanidade e o decoro terão algum significado."
     },
     {
       "id": "battle_react_10613_903",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
-      "dlg": "Evil must be mercilessly wrested from their roots(除惡務盡 斬草除根). The path I have chosen as the Lord of Hongyuan is a path unburdened by the need to seek understanding from others. Thus, big brother—no, Jia Qiu, this dialogue has met an impasse."
+      "dlg": "O mal deve ser impiedosamente arrancado de suas raízes (除惡務盡 斬草除根). O caminho que escolhi como Lorde de Hongyuan é um caminho livre da necessidade de buscar compreensão alheia. Portanto, irmãozão—não, Jia Qiu, este diálogo chegou a um impasse."
     },
 	
 	{
@@ -980,27 +980,27 @@
 	{	
       "id": "special_vergil_bufftarget_atk",
       "desc": "############ Kkomi and Vergilius? - I'll do the AF sinners if they add them back ############",
-      "dlg": "So you're the one who hid it... Huh? It's a line from a TV show."
+      "dlg": "Então foi você quem escondeu... Hã? É uma fala de um programa de TV."
     },
 	{	
       "id": "special_vergil_enemy_break",
       "desc": "",
-      "dlg": "Kkomi doesn't forgive passengers who don't give candy."
+      "dlg": "Kkomi não perdoa passageiros que não dão doces."
     },
 	{	
       "id": "special_vergil_before_s3",
       "desc": "",
-      "dlg": "If I find candy. in your pockets. its one punch. per candy."
+      "dlg": "Se eu encontrar doce. nos seus bolsos. é um soco. por doce."
     },
 	{	
       "id": "special_vergil_s3",
       "desc": "",
-      "dlg": "Kkomi. Strong. If you don't give candy. Angry."
+      "dlg": "Kkomi. Forte. Se você não dar doce. Brava."
     },
 	{	
       "id": "special_vergil_before_s4",
       "desc": "",
-      "dlg": "I'm bored now. Mephi. Open doors."
+      "dlg": "Tô entediada agora. Mephi. Abrir portas."
     },
 	{	
       "id": "special_vergil_s4-01",
@@ -1011,12 +1011,12 @@
 	{	
       "id": "battle_8099_s2_2-01",
       "desc": "############ Ricardo ############",
-      "dlg": "Complete and total..."
+      "dlg": "Completa e total..."
     },
 	{	
       "id": "battle_8099_s2_2-02",
       "desc": "",
-      "dlg": "Extermination!"
+      "dlg": "Exterminação!"
     },
 
 
@@ -1024,38 +1024,38 @@
     {
       "id": "9SV-BAT7-00-04",
       "desc": "####### The Thumb Nursefather Apperentice Lucio missing lines #############",
-      "dlg": "Witness a demonstration of the Palermitan dismantling technique. Sezionatura di Cervo."
+      "dlg": "Assista a uma demonstração da técnica de desmantelamento de Palermitan. Sezionatura di Cervo."
     },
 	{
       "id": "9SV-BAT7-00-05",
       "desc": "1Orthis",
-      "dlg": "Witness a demonstration of the Palermitan dismantling technique. Sezionatura di Cervo!"
+      "dlg": "Assista a uma demonstração da técnica de desmantelamento de Palermitan. Sezionatura di Cervo!"
     },
     {
       "id": "9SV-BAT7-00-01",
       "desc": "",
-      "dlg": "Demonstration complete."
+      "dlg": "Demonstração completa."
     },
 	{
       "id": "9SV-BAT7-00",
       "desc": "1Might actually be this ID",
-      "dlg": "Demonstration complete."
+      "dlg": "Demonstração completa."
     },
 	{
       "id": "9SV-BAT7-00-02",
       "desc": "1UnknownVL-Stilllooking",
-      "dlg": "Observe the angle, speed, and the precise arc with which I swing the sword. Let it jog your memories."
+      "dlg": "Observe o ângulo, a velocidade e o arco preciso em que brando a minha espada. Deixe que isso desperte a sua memória."
     },
 	
 	{
       "id": "9SV-BAT18-BR3-3",
       "desc": "####### The Index Apperentice Sora missing lines #############",
-      "dlg": "Th-this way, right?!"
+      "dlg": "P-Por aqui, certo?!"
     },
 	{
       "id": "9SV-BAT18-BR3-3-01",
       "desc": "",
-      "dlg": "Th-this way, right?"
+      "dlg": "P-Por aqui, certo?"
     },
 	
 	
@@ -1067,44 +1067,44 @@
 	{
       "id": "9SV-BAT1-06_2",
       "desc": "",
-      "dlg": "Return to me."
+      "dlg": "Retorne à mim."
     },
 	
 	{
       "id": "9SV-BAT8-BR4-1",
       "desc": "####### Thumb Nursefather Valencina #############",
-      "dlg": "Fuck off!"
+      "dlg": "Vai se fuder!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-01",
       "desc": "",
-      "dlg": "Fuck off!"
+      "dlg": "Vai se fuder!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-02",
       "desc": "",
-      "dlg": "Fuck off!"
+      "dlg": "Vai se fuder!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-03",
       "desc": "",
-      "dlg": "Fuck off!"
+      "dlg": "Vai se fuder!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-04",
       "desc": "",
-      "dlg": "Fuck off!"
+      "dlg": "Vai se fuder!"
     },
 	
 	{
       "id": "9SV-BAT14-03-2",
       "desc": "##################### Shiomi Yoru S3 Voiceline Bubble Fix ###################",
-      "dlg": "Mang of Resentment (怨望), Mang of Futility (非望), Mang of Dismay (落望)."
+      "dlg": "Mang do Ressentimento (怨望), Mang da Futilidade (非望), Mang do Desânimo (落望)."
     },
 	{
       "id": "9SV-BAT14-03-3",
       "desc": "",
-      "dlg": "What is left to rage on... is only my wretched heart."
+      "dlg": "O que resta para continuar a dilacerar... é apenas o meu coração miserável."
   },
 
   {
@@ -1114,32 +1114,32 @@
   {
     "id": "battle_select_400025_1",
     "desc": "################# Baby Yi Sang ###############",
-    "dlg": "You called... yah?"
+    "dlg": "Chamou... nheh?"
   },
   {
     "id": "battle_endcommand_400025_1",
     "desc": "",
-    "dlg": "I shell do it!"
+    "dlg": "Eu fou fazer ixo!"
   },
   {
     "id": "battle_s3_400025_1",
     "desc": "",
-    "dlg": "Iss ideal..."
+    "dlg": "Ess ideal..."
   },
   {
     "id": "battle_select_400026_1",
     "desc": "################# Baby Faust ###############",
-    "dlg": "I’m listening."
+    "dlg": "Estou ouvindo."
   },
   {
     "id": "battle_endcommand_400026_1",
     "desc": "",
-    "dlg": "Paus will do dis."
+    "dlg": "Paus vai pazer ixo."
   },
   {
     "id": "battle_s3_400026_1",
     "desc": "",
-    "dlg": "Ah, I muss impwove my balance."
+    "dlg": "Ah, eu denho que melorar meu palanço."
   },
   {
     "id": "battle_select_400027_1",
@@ -1159,28 +1159,28 @@
   {
     "id": "battle_select_400028_1",
     "desc": "################# Baby Ryoshu ###############",
-    "dlg": "Wha... issit?"
+    "dlg": "Qu... quepoi?"
   },
   {
     "id": "battle_endcommand_400028_1",
     "desc": "",
-    "dlg": "Hum, shweet Shwordmanship."
+    "dlg": "Hum, exgruima doche."
   },
   {
     "id": "battle_s3_400028_1",
     "desc": "",
-    "dlg": "N. S.\n<size=50%>(Neck. Snapped.)</size>"
+    "dlg": "P. Q.\n<size=50%>(Pescoço. Quebrado.)</size>"
      
   },
   {
     "id": "battle_select_400029_1",
     "desc": "################# Baby Meursault ###############",
-    "dlg": "Yes, Principal."
+    "dlg": "Sim, Diretor."
   },
   {
     "id": "battle_endcommand_400029_1",
     "desc": "",
-    "dlg": "Leave it to me."
+    "dlg": "Deixe comigo."
   },
   {
     "id": "battle_s3_400029_1",
@@ -1190,97 +1190,97 @@
   {
     "id": "battle_select_400030_1",
     "desc": "################# Baby Hong Lu ###############",
-    "dlg": "I'm listening~"
+    "dlg": "Extou ouvindo~"
   },
   {
     "id": "battle_endcommand_400030_1",
     "desc": "",
-    "dlg": "Feews like my body is getting lighter~"
+    "dlg": "Palece que meu colpo ta ficando maix leve!~"
   },
   {
     "id": "battle_s3_400030_1",
     "desc": "",
-    "dlg": "Not weally my taste~"
+    "dlg": "Nyao é muito meu salbor~"
   },
   {
     "id": "battle_select_400031_1",
     "desc": "################# Baby Heathcliff ###############",
-    "dlg": "Engh... Waschu lookin' at!"
+    "dlg": "Engh... Qu'que uxe ta olhandu!"
   },
   {
     "id": "battle_endcommand_400031_1",
     "desc": "",
-    "dlg": "Hehehehehe! Issa leggy billy!"
+    "dlg": "Hehehehehe! Pelninha molenga!"
   },
   {
     "id": "battle_s3_400031_1",
     "desc": "",
-    "dlg": "Dye!!"
+    "dlg": "Mora!!"
   },
   {
     "id": "battle_select_400032_1",
     "desc": "################# Baby Ishmael ###############",
-    "dlg": "If I’m da Wice Capain! I can do even bettar!"
+    "dlg": "Che eu xou a Capitã do Arroiss! Eu conchigo fazer melhur!"
   },
   {
     "id": "battle_endcommand_400032_1",
     "desc": "",
-    "dlg": "Big Teesh! Pwease watch over dem!"
+    "dlg": "Dentucho! Pufabo fica di olho!"
   },
   {
     "id": "battle_s3_400032_1",
     "desc": "",
-    "dlg": "Gimme da ingwedients!"
+    "dlg": "Mi dê os ingwedientes!"
   },
   {
     "id": "battle_select_400033_1",
     "desc": "################# Baby Rodion ###############",
-    "dlg": "<i>*giggle*</i> Looks dewicious!"
+    "dlg": "<i>*risadinha*</i> Palece delichioso!"
   },
   {
     "id": "battle_endcommand_400033_1",
     "desc": "",
-    "dlg": "Dat leggy is mine!"
+    "dlg": "Echa cochinha é minha!"
   },
   {
     "id": "battle_s3_400033_1",
     "desc": "",
-    "dlg": "Uugh... da lower limb is yucky!"
+    "dlg": "Ecaaa... a calne é nojenta!"
   },
   {
     "id": "battle_select_400034_1",
     "desc": "################# Baby Sinclair ###############",
-    "dlg": "Um... can I be... Wice Captin?"
+    "dlg": "Um... eu pocho ser o... Capitão do arrox?"
   },
   {
     "id": "battle_endcommand_400034_1",
     "desc": "",
-    "dlg": "I'm gonna be bwave, too!"
+    "dlg": "Eu vou cher colajoso tamein!"
   },
   {
     "id": "battle_s3_400034_1",
     "desc": "",
-    "dlg": "C’mewe!"
+    "dlg": "Vien cá!"
   },
   {
     "id": "battle_select_400035_1",
     "desc": "################# Baby Outis ###############",
-    "dlg": "Did you cawl me?"
+    "dlg": "Voche me chamou?"
   },
   {
     "id": "battle_endcommand_400035_1",
     "desc": "",
-    "dlg": "Commewce Opewation!"
+    "dlg": "Comechar Opelação!"
   },
   {
     "id": "battle_s3_400035_1",
     "desc": "",
-    "dlg": "Pwease look at me…\nExecutive Teach!"
+    "dlg": "Pufabo olha pa mi…\nPlofessor Executivo!"
   },
   {
     "id": "battle_select_400036_1",
     "desc": "################# Baby Gregor ###############",
-    "dlg": "All of wus… have no choice but to faight…"
+    "dlg": "A genti… nyao tem excolha alem de lyutar…"
   },
   {
     "id": "battle_endcommand_400036_1",
@@ -1290,7 +1290,7 @@
   {
     "id": "battle_s3_400036_1",
     "desc": "",
-    "dlg": "It's not... buggy!"
+    "dlg": "Nyau é... inxetinho!"
   },
 
 
@@ -4222,7 +4222,7 @@
 	{	
       "id": "battle_select_10808_1",
       "desc": "############ Pequod Captain Ishmael ############",
-      "dlg": "Foque na Baleia, se você tem tempo para ficar batendo boca!"
+      "dlg": "Foque na Baleia, se você tem tempo pra ficar batendo boca!"
     },
     {
       "id": "battle_endcommand_10808_1",
@@ -4232,7 +4232,7 @@
     {
       "id": "battle_enemy_break_10808_1",
       "desc": "",
-      "dlg": "Eles estão se acovardando! Agora é o momento de virarmos a maré!"
+      "dlg": "Eles estão se acovardando! Agora é a hora de virarmos a maré!"
     },
     {
       "id": "battle_kill_10808_1",
@@ -4242,7 +4242,7 @@
     {
       "id": "battle_break_10808_1",
       "desc": "",
-      "dlg": "Hngh…! Mantenham suas posições! O inimigo está de olho em mim — usem esta oportunidade para atacá-los!"
+      "dlg": "Hngh…! Mantenham suas posições! O inimigo está de olho em mim — usem essa oportunidade para atacá-los!"
     },
 	{
       "id": "battle_dead_10808_1",
@@ -4262,7 +4262,7 @@
 	{
       "id": "battle_s3_10808_1_1-01",
       "desc": "",
-      "dlg": "Este arpão...!"
+      "dlg": "Esse arpão...!"
     },
     {
       "id": "battle_s3_10808_1_2",
@@ -4287,13 +4287,13 @@
     {
       "id": "battle_enemy_break_special_10808_1",
       "desc": "",
-      "dlg": "Estão vendo?! O inimigo foi aniquilado assim...\nA vitória está bem diante dos nossos olhos!"
+      "dlg": "Estão vendo?! O inimigo foi aniquilado...\nA vitória está bem diante dos nossos olhos!"
     },
 	
 	{	
       "id": "battle_select_10208_1",
       "desc": "############ Blade Lineage Faust ############",
-      "dlg": "Está curtindo o momento?"
+      "dlg": "Está aproveitando o agora?"
     },
     {
       "id": "battle_endcommand_10208_1",
@@ -4421,7 +4421,7 @@
 	{
       "id": "battle_select_11208_1",
       "desc": "############ Kurokumo Captain Gregor ############",
-      "dlg": "Eu avisei, eu não luto conversando! ... O que você quer?"
+      "dlg": "Eu avisei, eu não luto conversando! ... O que tu quer?"
     },
     {
       "id": "battle_endcommand_11208_1",
@@ -4463,7 +4463,7 @@
     {
       "id": "battle_enemy_break_10407_1",
       "desc": "",
-      "dlg": "Levante-se. Um boneco de treino fica mais em pé do que você."
+      "dlg": "Se levante. Um boneco de treino fica mais em pé do que você."
     },
     {
       "id": "battle_kill_10407_1",
@@ -4512,12 +4512,12 @@
 	{
       "id": "battle_dead_10908_1",
       "desc": "",
-      "dlg": "<i>Cof</i>… Não achei… que eu mesmo acabaria… enterrado em cinzas…"
+      "dlg": "<i>Cof</i>… Não achei… que eu mesmo acabaria… enterrada em cinzas…"
     },
 	{
       "id": "battle_s3_10908_1_2",
       "desc": "",
-      "dlg": "Você nem percebeu que foi perfurado, não é?"
+      "dlg": "Você nem percebeu que foi perfurado, né?"
     },
 	
 
@@ -4531,7 +4531,7 @@
     {
       "id": "battle_endcommand_10708_1",
       "desc": "",
-      "dlg": "Eu te disse para não interferir!"
+      "dlg": "Eu te disse pra não interferir!"
     },
     {
       "id": "battle_enemy_break_10708_1",
@@ -4672,7 +4672,7 @@
 	{
       "id": "battle_select_11209_1",
       "desc": "############ Edgar Heir Gregor ############",
-      "dlg": "Você têm algo a dizer a mim?"
+      "dlg": "Você têm algo que queira dizer a mim?"
     },
     {
       "id": "battle_endcommand_11209_1",
@@ -4682,7 +4682,7 @@
     {
       "id": "battle_enemy_break_11209_1",
       "desc": "",
-      "dlg": "Espero que você não estivesse esperando encontrar honra nesta batalha."
+      "dlg": "Espero que você não tenha esperado encontrar honra nesta batalha."
     },
     {
       "id": "battle_kill_11209_1",
@@ -4789,7 +4789,7 @@
 	{
       "id": "battle_select_11009_1",
       "desc": "############ Dawn Office Sinclair ############",
-      "dlg": "Dê-me coragem para encarar algo…"
+      "dlg": "Me dê a coragem para encarar algo de frente…"
     },
     {
       "id": "battle_endcommand_11009_1",
@@ -4809,12 +4809,12 @@
     {
       "id": "battle_break_11009_1",
       "desc": "",
-      "dlg": "Sinto que estou apenas te causando preocupação…"
+      "dlg": "Sinto que estou apenas te causando mais preocupações…"
     },
 	{
       "id": "battle_dead_11009_1",
       "desc": "",
-      "dlg": "Eu achei… que estaria ao seu lado até o fim…"
+      "dlg": "Eu pensei… que eu estaria do seu lado até o fim…"
     },
 	{
       "id": "battle_s3_11009_1_1",
@@ -4839,7 +4839,7 @@
 	{
       "id": "battle_special_11009_2",
       "desc": "",
-      "dlg": "Desta vez... eu definitivamente vou dar um fim a isso!"
+      "dlg": "Dessa vez... eu definitivamente vou dar um fim nisso!"
     },
 	{
       "id": "battle_special_11009_1",
@@ -4854,12 +4854,12 @@
 	{
       "id": "battle_kill_11009_2",
       "desc": "",
-      "dlg": "Se eu continuar hesitando, não conseguirei seguir em frente."
+      "dlg": "Se eu continuar hesitando, não vou conseguir seguir em frente."
     },
     {
       "id": "battle_dead_11009_2",
       "desc": "",
-      "dlg": "Talvez eu não deveria... trilhado esse caminho…"
+      "dlg": "Talvez eu não deveria... ter trilhado esse caminho…"
     },
 	
 	
@@ -4876,7 +4876,7 @@
     {
       "id": "battle_enemy_break_10109_1",
       "desc": "",
-      "dlg": "Hum, esta peça está desequilibrada."
+      "dlg": "Hum, essa peça está desequilibrada."
     },
     {
       "id": "battle_kill_10109_1",
@@ -4945,7 +4945,7 @@
 	{
       "id": "battle_select_10409_1",
       "desc": "############ Yurodivy Ryoshu ############",
-      "dlg": "É bom que eles nos deem uma boa briga."
+      "dlg": "É melhor que eles nos deem uma boa briga."
     },
     {
       "id": "battle_endcommand_10409_1",
@@ -4955,7 +4955,7 @@
     {
       "id": "battle_enemy_break_10409_1",
       "desc": "",
-      "dlg": "SVamos sacudir esses porcos cheios…"
+      "dlg": "Vamos sacudir esses porcos cheios…"
     },
     {
       "id": "battle_kill_10409_1",
@@ -5058,12 +5058,12 @@
 	  {
       "id": "battle_select_10909_1",
       "desc": "############ T Corp Rodion ############",
-      "dlg": "Dá para falar um pouco mais rápido? Você está literalmente desperdiçando o meu tempo."
+      "dlg": "Dá pra falar um pouco mais rápido? Você tá literalmente desperdiçando o meu tempo."
     },
     {
       "id": "battle_endcommand_10909_1",
       "desc": "",
-      "dlg": "Vou terminar isso num instante."
+      "dlg": "Vou acabar com isso num instante."
     },
     {
       "id": "battle_enemy_break_10909_1",
@@ -5398,7 +5398,7 @@
     {
       "id": "battle_endcommand_10410_1",
       "desc": "",
-      "dlg": "Prepare-se para ter o crânio rachado."
+      "dlg": "Se prepare para ter o seu crânio rachado."
     },
     {
       "id": "battle_enemy_break_10410_1",
@@ -5528,7 +5528,7 @@
 	  {
       "id": "battle_g3_10810_1-02",
       "desc": "",
-      "dlg": "Guarda com Montante"
+      "dlg": "Guarda com Montante."
     },
 	
 	
@@ -5621,7 +5621,7 @@
     {
       "id": "battle_enemy_break_10610_1",
       "desc": "",
-      "dlg": "Isso machuca?"
+      "dlg": "Machucou?"
     },
     {
       "id": "battle_kill_10610_1",
@@ -5669,7 +5669,7 @@
 	  {
       "id": "battle_dead_11111_1",
       "desc": "",
-      "dlg": "P-Pelo menos deixe-me ficar com a máscara…! … Então… me mate…"
+      "dlg": "P-Pelo menos deixe-me ficar com a máscara…! … Então… pode me matar…"
     },
 	  {
       "id": "battle_s3_11111_1_1-01",
@@ -5923,7 +5923,7 @@
 	  {
       "id": "battle_react_10310_3-4",
       "desc": "",
-      "dlg": "6º Variante das Artes\nHardblood de Sancho..."
+      "dlg": "6ª Variante das Artes\nHardblood de Sancho..."
     },
 	  {
       "id": "battle_react_10310_3-4-1",
@@ -5933,7 +5933,7 @@
 	  {
       "id": "battle_react_10310_4-4",
       "desc": "",
-      "dlg": "8º Variante das Artes\nHardblood de Sancho..."
+      "dlg": "8ª Variante das Artes\nHardblood de Sancho..."
     },
 	  {
       "id": "battle_react_10310_4-4-1",
@@ -5943,12 +5943,12 @@
   	{
       "id": "battle_react_10310_6-4",
       "desc": "",
-      "dlg": "15º Arte de Hardblood..."
+      "dlg": "15ª Arte de Hardblood..."
     },
   	{
       "id": "battle_react_10310_6-4-1",
       "desc": "",
-      "dlg": "Indo à caminho ao Finale!"
+      "dlg": "Indo à caminho do Finale!"
     },
   	{
       "id": "battle_react_10310_2",
@@ -5968,7 +5968,7 @@
   	{
       "id": "battle_react_10310_9",
       "desc": "",
-      "dlg": "Foque-se no banquete diante de seus olhos."
+      "dlg": "Foque no banquete diante de seus olhos."
     },
 	  {
       "id": "battle_react_10310_8-2",
@@ -6002,7 +6002,7 @@
     {
       "id": "battle_enemy_break_10611_1",
       "desc": "",
-      "dlg": "Você realmente não sabe o que está fazendo, está~?"
+      "dlg": "Você realmente não sabe o que está fazendo, sabe~?"
     },
     {
       "id": "battle_kill_10611_1",
@@ -6254,17 +6254,17 @@
 	  { 
       "id": "battle_select_10712_1",
       "desc": "############ Kurokumo Heathcliff Start ############",
-      "dlg": "Hoo… Deixa eu recuperar o fôlego."
+      "dlg": "Uff… Deixa eu recuperar o fôlego."
     },
     {
       "id": "battle_endcommand_10712_1",
       "desc": "",
-      "dlg": "Mate todos!"
+      "dlg": "Matem todos!"
     },
     {
       "id": "battle_enemy_break_10712_1",
       "desc": "",
-      "dlg": "Isso vai machucar para um cão."
+      "dlg": "Isso vai machucar pra um cão."
     },
     {
       "id": "battle_kill_10712_1",
@@ -6279,7 +6279,7 @@
 	  {
       "id": "battle_dead_10712_1",
       "desc": "",
-      "dlg": "Eu já cortei eles o bastante… vou deixar o resto para você…"
+      "dlg": "Eu já deixei bastante cortes neles… agora vou deixar o resto para você…"
     },
 	  {
       "id": "battle_s3_10712_1_4",
@@ -6294,7 +6294,7 @@
 	  {
       "id": "battle_special_10712_2",
       "desc": "",
-      "dlg": "Hah... esses bastardos realmente querem morrer hoje!"
+      "dlg": "Hah... esses bastardos querem mesmo morrer hoje!"
     },
 	
 
@@ -6303,7 +6303,7 @@
 	  {
       "id": "battle_select_10811_1",
       "desc": "############ Kurokumo Captain Ishmael Start ############",
-      "dlg": "Há mais algo a ser dito?"
+      "dlg": "Há mais algo que queria dizer?"
     },
     {
       "id": "battle_endcommand_10811_1",
@@ -6313,12 +6313,12 @@
     {
       "id": "battle_enemy_break_10811_1",
       "desc": "",
-      "dlg": "Céus, como você não percebeu? Você foi cautelosamente lacerado."
+      "dlg": "Céus, como você não conseguiu perceber? Que você... foi cautelosamente lacerado!"
     },
     {
       "id": "battle_kill_10811_1",
       "desc": "",
-      "dlg": "Como você está aguentando até agora…?"
+      "dlg": "Como você se sente agora…?"
     },
     {
       "id": "battle_break_10811_1",
@@ -6391,7 +6391,7 @@
 	  {
       "id": "battle_s3_10112_1_3-02",
       "desc": "",
-      "dlg": "Vão queimar por completo...!"
+      "dlg": "Todos vão queimar por completo...!"
     },
 	
 	
@@ -6442,12 +6442,12 @@
     {
       "id": "battle_endcommand_11211_1",
       "desc": "",
-      "dlg": "Veremos o quão mais terão de aguentar."
+      "dlg": "Veremos o quão mais terão que aguentar."
     },
     {
       "id": "battle_enemy_break_11211_1",
       "desc": "",
-      "dlg": "Não presumo que há últimas palavras?"
+      "dlg": "Creio que não há nenhuma última palavra?"
     },
     {
       "id": "battle_kill_11211_1",
@@ -6472,7 +6472,7 @@
 	  {
       "id": "battle_s3_11211_1_3-05",
       "desc": "",
-      "dlg": "Estes vermes malditos!"
+      "dlg": "Esses vermes malditos!"
     },
 	  {
       "id": "battle_s3_11211_1_3",
@@ -6482,7 +6482,7 @@
 	  {
       "id": "battle_s3_11211_1_3-03",
       "desc": "",
-      "dlg": "Estes vermes malditos!"
+      "dlg": "Esses vermes malditos!"
     },
 	  {
       "id": "battle_s3_11211_1_3-01",
@@ -6492,7 +6492,7 @@
 	  {
       "id": "battle_s3_11211_1_3-04",
       "desc": "",
-      "dlg": "Estes vermes malditos!"
+      "dlg": "Eesses vermes malditos!"
     },
 	
 	
@@ -6582,12 +6582,12 @@
 	  {
       "id": "battle_select_11012_1",
       "desc": "############ Middle Lilbro Sinclair Start ############",
-      "dlg": "Quem interfere com nossos negócios?"
+      "dlg": "Quem é que se mete com os nossos negócios?"
     },
     {
       "id": "battle_endcommand_11012_1",
       "desc": "",
-      "dlg": "Esmagarei-os até virar pó."
+      "dlg": "Eu irei esmaga-los até virar pó."
     },
     {
       "id": "battle_enemy_break_11012_1",
@@ -6597,7 +6597,7 @@
     {
       "id": "battle_kill_11012_1",
       "desc": "",
-      "dlg": "… Massa, agora posso riscar isso do livro."
+      "dlg": "… Beleza, agora posso riscar isso do livro."
     },
     {
       "id": "battle_break_11012_1",
@@ -6612,7 +6612,7 @@
 	  {
       "id": "battle_s3_11012_1_3-02",
       "desc": "",
-      "dlg": "Tá doendo?"
+      "dlg": "Machucou, é?"
     },
 	
 	
@@ -6682,12 +6682,12 @@
 	  {
       "id": "battle_dead_10912_1",
       "desc": "",
-      "dlg": "Para que... serviu tudo isso...? Todo esse tempo... que eu desperdicei... pelo meu lorde..."
+      "dlg": "Pra que... serviu tudo isso...? Todo esse tempo... que eu desperdicei... pelo meu lorde..."
     },
 	  {
       "id": "battle_s3_10912_1_3",
       "desc": "",
-      "dlg": "Essa distância é perfeita para mim…\nMas pode ser um pouco longe demais para você!"
+      "dlg": "Essa distância é perfeita para mim…\nMas pode ser um pouco longe demais pra você!"
     },
 	
 	
@@ -6696,22 +6696,22 @@
 	  {
       "id": "battle_select_11212_1",
       "desc": "############ Si Branch Gregor Start ############",
-      "dlg": "Eu disse para ficar esperto perto de uma cobra pronta para o bote."
+      "dlg": "Eu disse pra ficar esperto quando tem uma cobra pronta para o bote."
     },
     {
       "id": "battle_endcommand_11212_1",
       "desc": "",
-      "dlg": "Agora, tente adivinhar de verdade. De qual dos meus braços vai te atacar?"
+      "dlg": "Agora, tenta adivinhar de verdade. Qual dos meus dois braços vai te perfurar?"
     },
     {
       "id": "battle_enemy_break_11212_1",
       "desc": "",
-      "dlg": "Essa você não esperava, não é?"
+      "dlg": "Por essa você não esperava, né?"
     },
     {
       "id": "battle_kill_11212_1",
       "desc": "",
-      "dlg": "Uma mordida limpa, hein?"
+      "dlg": "Uma mordida bem limpa, hein?"
     },
     {
       "id": "battle_break_11212_1",
@@ -6726,7 +6726,7 @@
 	  {
       "id": "battle_s3_11212_1_3",
       "desc": "",
-      "dlg": "Não acho que é a direção certa."
+      "dlg": "Não acho que era o lado certo."
     },
 	
 	
@@ -6745,7 +6745,7 @@
     {
       "id": "battle_enemy_break_10212_1",
       "desc": "",
-      "dlg": "Futile."
+      "dlg": "Fútil."
     },
     {
       "id": "battle_kill_10212_1",
@@ -6777,7 +6777,7 @@
 	  {
       "id": "battle_select_10812_1",
       "desc": "############ Xichun Ishmael Start ############",
-      "dlg": "Por favor, poupe-me de alvoroços inúteis. Prefiro ficar em silêncio."
+      "dlg": "Por favor, me poupe de qualquer tipo de alvoroço inútil. Prefiro ficar em silêncio."
     },
     {
       "id": "battle_endcommand_10812_1",
@@ -6802,7 +6802,7 @@
 	  {
       "id": "battle_dead_10812_1",
       "desc": "",
-      "dlg": "Que... primavera efêmera esta... que vivemos.."
+      "dlg": "Que... primavera efêmera essa... que vivemos.."
     },
 	  {
       "id": "battle_s3_10812_1_001",
@@ -6824,7 +6824,7 @@
     {
       "id": "battle_endcommand_10512_1",
       "desc": "",
-      "dlg": "Você está pronto?"
+      "dlg": "Você está preparado?"
     },
     {
       "id": "battle_enemy_break_10512_1",
@@ -6834,7 +6834,7 @@
     {
       "id": "battle_kill_10512_1",
       "desc": "",
-      "dlg": "Ficar apenas parado é o que custou a sua cabeça."
+      "dlg": "Ficar só parado é o que custou a sua cabeça."
     },
     {
       "id": "battle_break_10512_1",
@@ -6859,7 +6859,7 @@
 	  {
       "id": "battle_s4_10512_1",
       "desc": "",
-      "dlg": "Vejo que você vale a pena o custo de minha munição."
+      "dlg": "Vejo que você vale a pena o gasto da minha munição."
     },
 	  {
       "id": "battle_s4_10512_2",
@@ -6903,7 +6903,7 @@
 	  {
       "id": "battle_dead_11013_1",
       "desc": "",
-      "dlg": "Eu não acho que tenha sido indelicado…"
+      "dlg": "Eu não acho que fui indelicado…"
     },
 	  {
       "id": "battle_s3_11013_1_1",
@@ -6956,7 +6956,7 @@
 	  {
       "id": "battle_s3_10113_1_3",
       "desc": "",
-      "dlg": "Eu irei disparar e perfurá-lo exatamente como você está."
+      "dlg": "Eu vou disparar e perfurá-lo exatamente como está."
     },
 	
 	
@@ -7170,7 +7170,7 @@
 	  {
       "id": "battle_s3_11113_1_2",
       "desc": "",
-      "dlg": "Execução!"
+      "dlg": "Executar!"
     },
 	
 	
@@ -7395,7 +7395,7 @@
 	  {
       "id": "battle_kill_10114_1",
       "desc": "",
-      "dlg": "… e deixe que o vendaval guie o seu pisotear."
+      "dlg": "… E deixe que o vendaval guie o seu pisotear."
     },
     {
       "id": "battle_s3_10114_1_1",
@@ -7410,7 +7410,7 @@
 	  {
       "id": "battle_s3_10114_1_3",
       "desc": "",
-      "dlg": "Break through and\ncast them aside!"
+      "dlg": "Rompa e atropele-os\nsem limites!"
     },
 	  {
       "id": "battle_s3_10114_1_1-01",
@@ -7430,7 +7430,7 @@
     {
       "id": "battle_s3_10114_1_4",
       "desc": "",
-      "dlg": "Rompe sua defesa e atropele-os sem limites!"
+      "dlg": "Rompa sua defesa e atropele-os sem limites!"
     },
 	  {
       "id": "battle_special_10114_1",
@@ -7440,7 +7440,7 @@
     {
       "id": "battle_special_10114_2",
       "desc": "",
-      "dlg": "Corra à minha frente. Se for você, minha senhora,\ncertamente será capaz de fazê-lo."
+      "dlg": "Corra em minha frente. Se for você, minha senhorita,\ncertamente será capaz de conseguir."
     },
     {
       "id": "battle_special_10114_3",
@@ -7450,7 +7450,7 @@
     {
       "id": "battle_special_10114_4",
       "desc": "",
-      "dlg": "Camada sobre camada de portões…\nEu irei romper todos eles!"
+      "dlg": "Camada sobre camada de portões…\nEu vou romper todos eles!"
     },
 	
 	
@@ -7473,22 +7473,22 @@
 	  {
       "id": "battle_endcommand_11014_1",
       "desc": "",
-      "dlg": "Abre minhas asas, e os perfurarei com minhas garras."
+      "dlg": "Abre minhas asas, e perfurarei com minhas garras."
     },
 	  {
       "id": "battle_enemy_break_11014_1",
       "desc": "",
-      "dlg": "Você está encurralado.\nNão há para onde fugir."
+      "dlg": "Você tá encurralado.\nNão há para onde fugir."
     },
 	  {
       "id": "battle_kill_11014_1",
       "desc": "",
-      "dlg": "… Morto. Para onde agora…"
+      "dlg": "… Morto. Onde agora…"
     },
 	  {
       "id": "battle_s3_11014_1_6-02",
       "desc": "",
-      "dlg": "Lâmina de Chama Sangrenta, Incendeie!"
+      "dlg": "Lâmina de Chama Sangrenta, em Chamas!"
     },
 	  {
       "id": "battle_s3_11014_1_5",
@@ -7508,7 +7508,7 @@
 	  {
       "id": "battle_s3_11014_1_4-01",
       "desc": "",
-      "dlg": "Lâmina de Chama Sangrenta, Incendeie."
+      "dlg": "Lâmina de Chama Sangrenta, em Chamas."
     },	
 	
 	
@@ -7516,7 +7516,7 @@
     {
       "id": "battle_select_10412_1",
       "desc": "############ Contempt Ryoshu Start ############",
-      "dlg": "Você tem noção de com quem está falando?"
+      "dlg": "Você tem pelo menos uma idéia com quem está falando?"
     },	
     {
       "id": "battle_break_10412_1",
@@ -7526,7 +7526,7 @@
     {
       "id": "battle_dead_10412_1",
       "desc": "",
-      "dlg": "Hah… até mesmo o olhar que um dia me abraçou…\nagora me despreza… Que eletrizante."
+      "dlg": "Hah… até mesmo o olhar que um dia me abraçou…\nagora me despreza… que eletrizante."
     },
 	  {
       "id": "battle_endcommand_10412_1",
@@ -7561,22 +7561,22 @@
     {
       "id": "battle_special_10412_1",
       "desc": "",
-      "dlg": "Então é este o alvo da vez?\nHeh. Eu também vou dar o meu corte."
+      "dlg": "Então é este o alvo agora?\nHeh. Então eu também vou dar o meu corte."
     },
     {
       "id": "battle_special_10412_2",
       "desc": "",
-      "dlg": "Seria uma obra de arte deixar sua bala me atingir..."
+      "dlg": "Vai ser uma obra de arte deixar sua bala me atingir..."
     },
 	  {
       "id": "battle_special_10412_2-01",
       "desc": "",
-      "dlg": "Mas... este dificilmente é o momento certo para deixarmos nossa obra-prima final."
+      "dlg": "Mas... esse é dificilmente o momento certo para deixarmos nossa obra-prima final."
     },
     {
       "id": "battle_special_10412_3",
       "desc": "",
-      "dlg": "Ser atingido pela sua bala desta forma... é uma verdadeira arte."
+      "dlg": "Ser atingido pela sua bala dessa forma... é, realmente, uma verdadeira arte."
     },
     {
       "id": "battle_special_10412_4_B",
@@ -7603,7 +7603,7 @@
     {
       "id": "battle_dead_10213_1",
       "desc": "",
-      "dlg": "Mais uma vez, a justiça é meramente um conceito universal — mesmo... para mim."
+      "dlg": "E ainda assim, a justiça é meramente um conceito universal — mesmo... para mim."
     },
 	  {
       "id": "battle_endcommand_10213_1",
@@ -7623,7 +7623,7 @@
 	  {
       "id": "battle_s3_10213_1_4",
       "desc": "",
-      "dlg": "Desta vez, eu vou te cordar para valer."
+      "dlg": "Desta vez, eu vou te cortar para valer."
     },
 	  {
       "id": "battle_take_aim_10213_1",
@@ -7633,7 +7633,7 @@
 	  {
       "id": "battle_take_aim_10213_2",
       "desc": "",
-      "dlg": "Vento verificado."
+      "dlg": "Direção do Vento verificado."
     },
 	  {
       "id": "battle_take_aim_10213_3",
@@ -7648,17 +7648,17 @@
 	  {
       "id": "battle_special_10213_1",
       "desc": "",
-      "dlg": "Atingirá o alvo sem falha."
+      "dlg": "Acertarei o alvo sem falha."
     },
 	  {
       "id": "battle_special_10213_3",
       "desc": "",
-      "dlg": "Um tiro, uma morte."
+      "dlg": "Um disparo, uma morte."
     },
 	  {
       "id": "battle_withdraw_arrow_10213",
       "desc": "",
-      "dlg": "Ah. Vejo que a flecha não sofreu danos.\nEntendo."
+      "dlg": "Ah. Vejo que a flecha não sofreu danos.\nEntendido."
     },
 	  {
       "id": "battle_special_10213_5_1",
@@ -7693,12 +7693,12 @@
     {
         "id": "battle_kill_10513_1",
         "desc": "Enemy Killed",
-        "dlg": "Você... é muito fracos para se juntarem à Família."
+        "dlg": "Você... é muito fraco para se juntar à Família."
     },
     {
         "id": "battle_dead_10513_1",
         "desc": "Death",
-        "dlg": "Assim, no fim... nossa leal Família, também, caminha para a ruína..."
+        "dlg": "Ainda assim, no fim... nossa Família real, também, caminha para a ruína..."
     },
 	  {
         "id": "battle_special_10513_1",
@@ -7713,7 +7713,7 @@
 	  {
         "id": "battle_special_10513_3",
         "desc": "",
-        "dlg": "Eu ouço os sons de fogos de artifício...\nO tempo já chegou?"
+        "dlg": "Eu ouço os sons de fogos de artifício...\nJá chegou a hora?"
     },
 	  {
         "id": "battle_special_10513_4",
@@ -7728,7 +7728,7 @@
 	  {
         "id": "battle_s3_10513_1_4",
         "desc": "",
-        "dlg": "Ah...\nO destaque do desfile.\nIsso é...  o Overture’s Finale."
+        "dlg": "Ah...\nEnfim chegou o destaque do desfile.\nIsso é...  o Overture’s Finale."
     },
 	  {
         "id": "battle_select_10713_1",
@@ -7738,7 +7738,7 @@
     {
         "id": "battle_endcommand_10713_1",
         "desc": "Commencing Attack",
-        "dlg": "Confirmando ativação da armadura."
+        "dlg": "Confirmando a ativação da armadura!"
     },
 	  {
         "id": "battle_enemy_break_10713_1",
@@ -7758,12 +7758,12 @@
     {
         "id": "battle_dead_10713_1",
         "desc": "Death",
-        "dlg": "... Então esta é a última parada."
+        "dlg": "... Então essa é a última parada."
     },
 	  {
         "id": "battle_special_10713_1",
         "desc": "",
-        "dlg": "Pode vir! Se tiver coragem."
+        "dlg": "Pode vir se tiver coragem!"
     },
 	  {
         "id": "battle_s3_10713_1_1",
@@ -7773,7 +7773,7 @@
 	  {
         "id": "battle_s3_10713_1_5",
         "desc": "",
-        "dlg": "Vou te partir em dois!"
+        "dlg": "Eu vou te dividir em dois!"
     },
 	  {
         "id": "battle_select_10813_1",
@@ -7783,12 +7783,12 @@
     {
         "id": "battle_endcommand_10813_1",
         "desc": "Commencing Attack",
-        "dlg": "Olha só, agora as mãos combinam!"
+        "dlg": "Olha só, agora sim as mãos combinam!"
     },
 	  {
         "id": "battle_enemy_break_10813_1",
         "desc": "Enemy Stagger",
-        "dlg": "Vamos lá! Koi-koi!"
+        "dlg": "Vamo lá! Koi-koi!"
     },
     {
         "id": "battle_break_10813_1",
@@ -7803,7 +7803,7 @@
     {
         "id": "battle_dead_10813_1",
         "desc": "Death",
-        "dlg": "Nunca pensei que seria encurralada desse jeito..."
+        "dlg": "Nunca pensei que eu seria encurralada desse jeito..."
     },
 	  {
         "id": "battle_s3_10813_1_1",
@@ -7818,7 +7818,7 @@
 	  {
         "id": "battle_special_10813_1",
         "desc": "",
-        "dlg": "Hah... Deu ruim. Próximo."
+        "dlg": "Hah... deu ruim. Próximo."
     },
 	  {
         "id": "battle_special_10813_2",
@@ -7858,12 +7858,12 @@
     {
         "id": "battle_endcommand_11213_1",
         "desc": "Commencing Attack",
-        "dlg": "Vamos lidar com isso rápido."
+        "dlg": "Vamos acabar com isso rápido."
     },
 	  {
         "id": "battle_enemy_break_11213_1",
         "desc": "Enemy Stagger",
-        "dlg": "Este é o seu ponto fraco?"
+        "dlg": "Esse aqui é o seu ponto fraco?"
     },
     {
         "id": "battle_break_11213_1",
@@ -7878,12 +7878,12 @@
     {
         "id": "battle_dead_11213_1",
         "desc": "Death",
-        "dlg": "IPelo visto, fugir... não serviu de nada para mudar o nosso destino..."
+        "dlg": "Pelo visto, fugir... não serviu de nada para mudar o nosso destino..."
     },
 	  {
         "id": "battle_s3_11213_1_4",
         "desc": "",
-        "dlg":"Você está vulnerável...!"
+        "dlg":"Você ficou vulnerável...!"
     },
 	  {
         "id": "battle_s3_11213_1_5",
@@ -7898,7 +7898,7 @@
 	  {
         "id": "battle_special_11213_1",
         "desc": "",
-        "dlg": "Sua postura quebrou?"
+        "dlg": "A sua postura quebrou?"
     },
 	  {
         "id": "battle_special_11213_1-01",
@@ -7908,7 +7908,7 @@
 	  {
         "id": "battle_special_11213_2",
         "desc": "",
-        "dlg": "Agradeça pela misericórdia."
+        "dlg": "Agradeça por essa misericórdia."
     },
 	  {
         "id": "battle_special_11213_3",
@@ -7988,17 +7988,17 @@
     {
       "id": "battle_break_10714_1",
       "desc": "Staggered",
-      "dlg": "Keheh, sim! É assim que eu gosto!"
+      "dlg": "Keheh, isso aí! É assim que eu gosto!"
     },
     {
       "id": "battle_kill_10714_1",
       "desc": "Enemy Killed",
-      "dlg": "Biquei eles até a morte! Próximo! TRAGA O PRÓXIMO!"
+      "dlg": "Eu biquei eles até a morte! Venha! TRAGA O PRÓXIMO!"
     },
     {
       "id": "battle_dead_10714_1",
       "desc": "Death",
-      "dlg": "Hah... eu perdi o controle total, não foi...? Bom... eu ia acabar virando carcaça de qualquer jeito mesmo..."
+      "dlg": "Hah... eu perdi totalmente o controle, não foi...? Bem... eu ia acabar virando carcaça de qualquer jeito mesmo..."
     },
     {
         "id": "battle_s3_10714_1_1",
@@ -8023,12 +8023,12 @@
     {
         "id": "battle_special_10714_3",
         "desc": "",
-        "dlg": "Desafio à Morte do Galo Flamejante...\n(炎鳥不死戦)... Heh!\nVocê achou mesmo que eu ia bater as botas...\nHein?!"
+        "dlg": "Desafio à Morte do Galo Flamejante...\n(炎鳥不死戦)... Heh!\nVocê achou mesmo que eu ia ir de vala...\nHein?!"
     },
     {
         "id": "battle_select_10413_1",
         "desc": "Viewed in Battle ###### Drifting Blade Ryoshu ######",
-        "dlg": "Afastar-se de mim não é uma escolha inteligente."
+        "dlg": "Se afastar de mim não é uma escolha inteligente."
     },
     {
         "id": "battle_endcommand_10413_1",
@@ -8058,12 +8058,12 @@
     {
           "id": "battle_s3_10413_1_3-02",
           "desc": "",
-          "dlg": "Sombra da Lança que Pisa no Céu(踏空槍零)."
+          "dlg": "Sombra da Lança sob o Céu(踏空槍零)."
     },
     {
           "id": "battle_special_10413_1",
           "desc": "",
-          "dlg": "Para trás."
+          "dlg": "Pra trás."
     },     
     {
           "id": "battle_special_10413_1-02",
@@ -8073,7 +8073,7 @@
     {
           "id": "battle_special_10413_2",
           "desc": "",
-          "dlg": "O Lorde de Hongyuan?\nHeh, é mesmo\nSe for esse o caso… então desta vez…\nCom certeza..."
+          "dlg": "O Lorde de Hongyuan?\nHeh, é mesmo.\nSe for esse o caso… então desta vez…\nCom certeza..."
     },
     {
           "id": "battle_special_10413_3",
@@ -8088,12 +8088,12 @@
     {
       "id": "battle_endcommand_10914_1",
       "desc": "Commencing Attack",
-      "dlg": "Por que tinha que ser hoje...? Por que tinha que ser logo a 4ª Matilha das Renas? Por que tinha que ser <i>apenas</i> eu e meus colegas de quarto nessa missão, hein...?"
+      "dlg": "Por que tinha que ser hoje...? Por que tinha que ser logo a 4ª Matilha das Renas? Por que tinha que ser <i>apenas</i> eu e meus colegas nessa missão, hein...?"
     },
     {
       "id": "battle_enemy_break_10914_1",
       "desc": "Enemy Stagger",
-      "dlg": "Hah, vou fritar vocês com luzes coloridas. Considerem um presente de Natal."
+      "dlg": "Hah, vou fritar vocês com muitas luzes coloridas. Considerem isso um presente de Natal."
     },
     {
       "id": "battle_break_10914_1",
@@ -8103,7 +8103,7 @@
     {
       "id": "battle_kill_10914_1",
       "desc": "Enemy Killed",
-      "dlg": "Crianças boas na lista dos bonzinhos teriam pegado leve com você... agh. Pena que nós estamos na lista dos malvados, né?"
+      "dlg": "As criancinhas na lista dos bonzinhos teriam pegado leve com você... agh. Pena que nós estamos na lista dos malvados, né?"
     },
     {
       "id": "battle_dead_10914_1",
@@ -8173,7 +8173,7 @@
     {
       "id": "battle_special_11114_3",
       "desc": "",
-      "dlg": "Successfully suppressed."
+      "dlg": "Suprimido com sucesso."
     },
     {
       "id": "battle_special_11114_4",
@@ -8249,7 +8249,7 @@
     {
       "id": "battle_special_10214_3",
       "desc": "",
-      "dlg": "Seja na morte ou na vida, é a Vontade da Prescrição. Não a temo."
+      "dlg": "Seja na morte ou na vida, é a Vontade da Prescrição. Não tenho medo."
     },
     {
       "id": "battle_special_10214_4",
@@ -8341,17 +8341,17 @@
     {
       "id": "battle_select_10814_1",
       "desc": "Viewed in Battle ####### House of Spiders Middle Apperentice Ishmael #######",
-      "dlg": "Sacou aquele frame? Aquele detalhe, cara, foi absurdo de insano...\nSerá que é assim que se mexe? Ou — não, <i>assim?</i>"
+      "dlg": "Sacou aquele pixel? Aquele detalhe, cara, foi absurdo de insano...\nSerá que é assim? Ou — não, <i>assim?</i>"
     },
     {
       "id": "battle_endcommand_10814_1",
       "desc": "Commencing Attack",
-      "dlg": "Isso vai ser tão irado!"
+      "dlg": "Isso vai ser tão foda!"
     },
     {
       "id": "battle_enemy_break_10814_1",
       "desc": "Enemy Stagger",
-      "dlg": "Teehee. Tá tiltado, lil' bro? Vai fazer o quê sobre isso?"
+      "dlg": "Hehe. Tá tiltado, lil' bro? Vai fazer o que, hein?"
     },
     {
       "id": "battle_break_10814_1",
@@ -8391,12 +8391,12 @@
     {
       "id": "battle_s3_10814_1_2",
       "desc": "",
-      "dlg": "Receba a minha ult suprema! Violet~ Breaking Slam!!!"
+      "dlg": "Receba meu ataque super fodástico! Violet~ Breaking Slam!!!"
     },
     {
       "id": "battle_s3_10814_1_3",
       "desc": "",
-      "dlg": "Agh! Acho que não foi o... Tanto Faz Slam!"
+      "dlg": "Agh! Acho que não foi o... Seiláoque-Slam!"
     },
     {
       "id": "battle_special_10814_1",
@@ -8406,7 +8406,7 @@
     {
       "id": "battle_special_10814_2",
       "desc": "",
-      "dlg": "Não é tão bom quanto o da mamãe... mas eu também consigo fatiar e fritar ao mesmo tempo, sabe?"
+      "dlg": "Não é tão bom quanto a mamãe faz... mas eu também consigo cortar e fritar ao mesmo tempo, tá ligado?"
     },
     {
       "id": "battle_special_10814_3",
@@ -8461,17 +8461,17 @@
     {
       "id": "battle_s3_11214_1_6",
       "desc": "",
-      "dlg": "Agora eu vejo claramente… quem é que eu devo salvar!"
+      "dlg": "Agora eu vejo claramente… quem eu devo salvar!"
     },
     {
       "id": "battle_special_11214_1",
       "desc": "",
-      "dlg": "Venha por aqui… eu garantirei a sua segurança."
+      "dlg": "Venha por aqui… eu irei garantir a sua segurança."
     },
     {
       "id": "battle_select_11015_1",
       "desc": "########## The Pinky Apperentice Sinclair ############",
-      "dlg": "Um único corte reto para derrubar todos…!"
+      "dlg": "Um único corte preciso para derrubar todos…!"
     },
     {
       "id": "battle_endcommand_11015_1",
@@ -8697,7 +8697,7 @@
     {
       "id": "battle_special_10115_17",
       "desc": "",
-      "dlg": "Ah… Don Quixote. De fato, se completar bem esta batalha… te presentearei."
+      "dlg": "Ah… Don Quixote. De fato, se você se sair bem nessa batalha… te presentearei."
     },
     {
       "id": "battle_select_10514_1",
@@ -8813,7 +8813,7 @@
     {
       "id": "battle_kill_10414_1",
       "desc": "",
-      "dlg": "... Seja enterrado no pó."
+      "dlg": "... Seja enterrado em cinzas."
     },
     {
       "id": "battle_dead_10414_1",
@@ -8858,7 +8858,7 @@
     {
       "id": "battle_special_10414_2",
       "desc": "",
-      "dlg": "udo o que surge deve cessar (是生滅法). Quanto mais dura, menos precioso se torna."
+      "dlg": "Tudo o que surge deve cessar (是生滅法). Quanto mais dura, menos precioso se torna."
     },
     {
       "id": "battle_special_10414_3",
@@ -8868,7 +8868,7 @@
     {
       "id": "battle_special_10414_4",
       "desc": "",
-      "dlg": "Volte para o túmulo... junto com tudo o que deseja viver."
+      "dlg": "Volte para o seu túmulo... junto com todo esse desejo de viver."
     },
     {
       "id": "battle_select_11215_1",
@@ -8913,7 +8913,7 @@
     {
       "id": "battle_special_11215_1-01",
       "desc": "",
-      "dlg": "Ufa… foi frito direitinho."
+      "dlg": "Ufa… foi bem no ponto."
     },
     {
       "id": "battle_special_11215_2",
@@ -8954,7 +8954,7 @@
     {
       "id": "battle_kill_10215_1",
       "desc": "",
-      "dlg": "Somente agora nos tornamos amigos."
+      "dlg": "Só agora nos tornamos amigos."
     },
     {
       "id": "battle_dead_10215_1",
@@ -8964,7 +8964,7 @@
     {
       "id": "battle_s2_10215_1_1",
       "desc": "",
-      "dlg": "Vou levar este ingrediente."
+      "dlg": "Vou levar esse ingrediente."
     },
     {
       "id": "battle_s3_10215_1_1",
@@ -8991,7 +8991,7 @@
     {
       "id": "battle_select_10614_1",
       "desc": "############# The Ring Nursefather Hong Lu ###############",
-      "dlg": "Shh. Por favor, mantenha silêncio enquanto aprecia a exposição."
+      "dlg": "Shh. Por favor, mantenha silêncio enquanto aprecia as exposições."
     },
     {
       "id": "battle_endcommand_10614_1",
@@ -9001,7 +9001,7 @@
     {
       "id": "battle_enemy_break_10614_1",
       "desc": "",
-      "dlg": "ocê tem algum último desejo a transmitir ao mundo...?"
+      "dlg": "Você tem algum último desejo que queira transmitir ao mundo...?"
     },
     {
       "id": "battle_break_10614_1",
@@ -9021,17 +9021,17 @@
     {
       "id": "battle_s3_10614_1_2",
       "desc": "",
-      "dlg": "Você ouve? A harmonia eufônica do par de úmeros e das 24 costelas...! Melodia de Tíbia!"
+      "dlg": "Você ouve? A harmonia eufônica do par de úmeros e das 24 costelas...! A Melodia de Tíbia!"
     },
     {
       "id": "battle_special_10614_1",
       "desc": "",
-      "dlg": "Não posso permitir que o público testemunhe uma visão tão degradante."
+      "dlg": "Não posso permitir que o público testemunhe uma visão tão... degradante."
     },
     {
       "id": "battle_special_10614_1-01",
       "desc": "",
-      "dlg": "Não posso permitir que o público testemunhe uma visão tão degradante."
+      "dlg": "Não posso permitir que o público testemunhe uma visão tão... degradante."
     },
     {
       "id": "battle_special_10614_2",
@@ -9046,12 +9046,12 @@
     {
       "id": "battle_special_10614_4",
       "desc": "",
-      "dlg": "A hora de fechamento da galeria chegou..."
+      "dlg": "A hora de fechar a galeria chegou..."
     },
     {
       "id": "battle_special_10614_4-01",
       "desc": "",
-      "dlg": "A hora de fechamento da galeria chegou..."
+      "dlg": "A hora de fechar a galeria chegou..."
     },
     {
       "id": "battle_special_10614_4-1",
@@ -9066,7 +9066,7 @@
     {
       "id": "battle_special_10614_4-02",
       "desc": "",
-      "dlg": "A hora de fechamento da galeria chegou..."
+      "dlg": "A hora de fechar a galeria chegou..."
     },
     {
       "id": "battle_special_10614_4-02-1",
@@ -9076,7 +9076,7 @@
     {
       "id": "battle_special_10614_4-03",
       "desc": "",
-      "dlg": "A hora de fechamento da galeria chegou..."
+      "dlg": "A hora de fechar a galeria chegou..."
     },
     {
       "id": "battle_special_10614_4-03-1",
@@ -9142,7 +9142,7 @@
     {
       "id": "battle_special_10515_3",
       "desc": "",
-      "dlg": "Hmm. Essas marcas de garras...\nCombinam com você."
+      "dlg": "Hmm. Essas marcas de garras...\nCombinam bem com você."
     },
     {
       "id": "battle_special_10515_4",
@@ -9164,7 +9164,7 @@
     {
         "id": "battle_enemy_break_10915_1",
         "desc": "",
-        "dlg": "O que foi? Minhas garras entraram na sua pele?"
+        "dlg": "O que foi? Minhas garras se prenderam na sua pele, é?"
     },
     {
         "id": "battle_break_10915_1",
@@ -9179,7 +9179,7 @@
     {
         "id": "battle_dead_10915_1",
         "desc": "",
-        "dlg": "Hah... Não planejava... valorizar meu estoque... com um prêmio póstumo tão cedo."
+        "dlg": "Hah... eu não planejava... valorizar meu estoque... com um prêmio póstumo tão cedo."
     },
     {
       "id": "battle_s3_10915_1_1",
@@ -9194,7 +9194,7 @@
     {
       "id": "battle_special_10915_1_1",
       "desc": "",
-      "dlg": "Nervos. Alinhamento!"
+      "dlg": "Nervos. Alinhem!"
     },
     {
       "id": "battle_special_10915_1_2",
@@ -9214,17 +9214,17 @@
     {
       "id": "battle_special_10915_2_2",
       "desc": "",
-      "dlg": "A intensidade está meio abaixo do esperado...?"
+      "dlg": "A intensidade está meio abaixo do que o esperado...?"
     },
     {
       "id": "battle_special_10915_2_3",
       "desc": "",
-      "dlg": "Nada mal, eu diria..."
+      "dlg": "Hm... nada mal, eu diria."
     },
     {
       "id": "battle_special_10915_3",
       "desc": "",
-      "dlg": "Minha costura de elite...\nVou mostrar especialmente para você!"
+      "dlg": "Minha costura de elite...\nVou mostrar especialmente pra você!"
     },
     {
       "id": "battle_special_10915_4",
@@ -9234,7 +9234,103 @@
     {
       "id": "battle_special_10915_5",
       "desc": "",
-      "dlg": "Certo~ Encerramos as avaliações por aqui."
+      "dlg": "Certo~ Iremos encerrar as avaliações por aqui."
+    },
+	
+	    {
+      "id": "battle_select_10715_1",
+      "desc": "############ Ricardo The Middle Big Brother Heathcliff ##############",
+      "dlg": "Hum... O que 'cê acha? Tô gostosão agora, né?"
+    },
+    {
+      "id": "battle_endcommand_10715_1",
+      "desc": "",
+      "dlg": "É melhor se preparar, porquê o Irmãozão tá chegando!"
+    },
+    {
+      "id": "battle_enemy_break_10715_1",
+      "desc": "",
+      "dlg": "Desmaiou, é? Tá, então é mais uma linha riscada no Livro."
+    },
+    {
+      "id": "battle_break_10715_1",
+      "desc": "",
+      "dlg": "Tch... *cospe*"
+    },
+    {
+      "id": "battle_kill_10715_1",
+      "desc": "",
+      "dlg": "Ow, palerma, acorda aí! 'Cê ainda tá devendo mais de 11 mortes!"
+    },
+    {
+      "id": "battle_dead_10715_1",
+      "desc": "",
+      "dlg": "Gah... mesmo se eu cair... a Vingança do Irmãozão vai te pegar eventualmente..!"
+    },
+    {
+      "id": "battle_s3_10715_1_5",
+      "desc": "",
+      "dlg": "Aqui vai o seu sofrimento como prometido!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-01",
+      "desc": "",
+      "dlg": "Eu vou te trazer um sofrimento prometido!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-02",
+      "desc": "",
+      "dlg": "Eu trago a você o sofrimento prometido!"
+    },
+    {
+      "id": "battle_special_10715_1_1",
+      "desc": "",
+      "dlg": "Já chega."
+    },
+    {
+      "id": "battle_special_10715_1_2",
+      "desc": "",
+      "dlg": "Aumenta mais a música aí!"
+    },
+    {
+      "id": "battle_special_10715_2_1",
+      "desc": "",
+      "dlg": "Completa e total..."
+    },
+    {
+      "id": "battle_special_10715_2_2",
+      "desc": "",
+      "dlg": "Exterminação!"
+    },
+    {
+      "id": "battle_special_10715_3_1",
+      "desc": "",
+      "dlg": "Tch. Pirralho do caralho..."
+    },
+    {
+      "id": "battle_special_10715_3_2",
+      "desc": "",
+      "dlg": "Sai da porra da minha frente!"
+    },
+    {
+      "id": "battle_special_10715_3_3",
+      "desc": "",
+      "dlg": "Me impede se conseguir!"
+    },
+    {
+      "id": "battle_special_10715_4",
+      "desc": "",
+      "dlg": "A punição para todos envolvidos aqui... será uma completa e total exterminação."
     }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
   ]
 }
