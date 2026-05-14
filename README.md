@@ -3,7 +3,7 @@
 ## Os instaladores antigos (abaixo da v1.5) estão sendo falsamente detectados como vírus, então certifique-se de baixar a versão mais recente atualizada para corrigir isso! [aqui](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) (Siga as instruções abaixo caso seja sua primeira vez instalando/usando.)
 
 <details>
-  <summary><h3>Registro de Mudanças (Clique para Expandir!)</h3></summary>
+  <summary><h3>Changelogs (Clique para Expandir!)</h3></summary>
 
 ### v1.105.0
 
@@ -61,6 +61,9 @@
 ### Este mod adiciona caixas de diálogo para todos os personagens com falas de batalha! (Incluindo falas não traduzidas!)
 
 # AVISO: As falas não traduzidas são não-oficiais e podem estar erradas às vezes!
+<img src="Screenshot/Hehehaha.png" alt="Hehehaha"/>
+<img src="Screenshot/LaShangure.png" alt="LaShangure"/>
+<img src="Screenshot/Shooting.png" alt="Shooting"/>
 
 ## Aviso de Instalação
 
@@ -77,17 +80,20 @@
 1. Baixe `LimbusSpeechBubbleEN_Installer-main.zip` e extraia.
 
 2. Certifique-se de que os arquivos `.dll` estejam ao lado do arquivo `LimbusSpeechBubbleENInstaller.exe`, ou ele NÃO abrirá.
+ 
+    <img width="256" height="198" alt="image" src="https://github.com/user-attachments/assets/9e84b5dd-d3cb-4bee-b90d-3974f47252f7" />
+    
+4. Agora abra o arquivo `LimbusSpeechBubbleENInstaller.exe`. Ele deve detectar automaticamente a pasta do jogo; se não detectar, você precisará navegar manualmente até o diretório do jogo e selecionar a pasta `LimbusCompany_Data`.
 
-3. Agora abra o arquivo `LimbusSpeechBubbleENInstaller.exe`. Ele deve detectar automaticamente a pasta do jogo; se não detectar, você precisará navegar manualmente até o diretório do jogo e selecionar a pasta `LimbusCompany_Data`.
-
-   * Verifique o método **Original Method** abaixo caso não saiba onde fica a pasta `LimbusCompany_Data`.
+   * Verifique o **Método Original** abaixo caso não saiba onde fica a pasta `LimbusCompany_Data`.
    * Se aparecer aquela janela do Windows SmartScreen, clique em `Mais Informações` e depois `Executar Mesmo Assim` (isso acontece porque não é um aplicativo assinado por uma publicadora conhecida, o que custa dinheiro).
+    <img width="531" height="191" alt="image" src="https://github.com/user-attachments/assets/8861a243-b115-4d49-8f03-9342a50340de" />
+    <img width="529" height="491" alt="image" src="https://github.com/user-attachments/assets/0affab0b-3ec7-4624-95b2-46a8a4b96744" />
+5. Clique em `[Install / Update Mod]`
 
-4. Clique em `[Install / Update Mod]`
+6. O mod agora deve estar instalado e atualizado para a versão mais recente!
 
-5. O mod agora deve estar instalado e atualizado para a versão mais recente!
-
-6. Você também pode usar o instalador para atualizar o mod facilmente sem precisar baixar tudo novamente do GitHub.
+7. Você também pode usar o instalador para atualizar o mod facilmente sem precisar baixar tudo novamente do GitHub.
 
 * O instalador não instalará arquivos de fonte caso detecte que a pasta `Font` já existe.
 * Se estiver tendo problemas, tente deletar completamente a pasta `Lang` dentro de `LimbusCompany_Data`, ou use o **Original Method**.
@@ -96,21 +102,25 @@
 ## Usando o Método Original:
 
 1. Clique em **Code** → **Download ZIP** neste repositório GitHub.
-
+      <img width="977" height="373" alt="image" src="https://github.com/user-attachments/assets/18fd7a76-a4d7-4947-979d-950e20afd45d" />
+      
 2. Abra ou extraia o arquivo ZIP.
 
 3. Vá até sua pasta do Limbus Company e abra a pasta `LimbusCompany_Data`
    Ex.:
    `C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
-
+      <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
+      <img src="Screenshot/datass.png" alt="datass"/>
+      
 4. Arraste a pasta `Lang` do ZIP para dentro da pasta `LimbusCompany_Data`.
-
+ <img src="Screenshot/Likethis.png" alt="Likethis"/>
+ 
 ## Configuração Inicial:
 
 1. Abra o jogo, clique em `"Select Custom Language"`, escolha **SpeechDialogBoxesEN - NotherWael**, e reinicie o jogo.
-
    * Se já estiver selecionado, pode ignorar este passo.
-
+   <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
+   
 2. Aproveite o mod!
 
 * Para atualizar, delete `SpeechDialogBoxesEN - NotherWael` dentro da pasta `Lang` e coloque a nova versão.
@@ -142,6 +152,11 @@
    * Você PRECISA fazer isso antes de chegar na tela do Lobby, senão NÃO funcionará e terá que reiniciar tudo.
 
 7. O mod deve funcionar agora, aproveite!
+### Exemplo em vídeo:<br>
+<a href="https://www.youtube.com/watch?v=iRC-ds4lQrE">
+  <img src="https://github.com/user-attachments/assets/4c5e6a55-d969-4b1a-916c-f264e071d0ec" width="1280" height="720" alt="Youtube Video">
+</a>
+
 
 # Instruções para Fontes Personalizadas
 
@@ -164,9 +179,7 @@
 Resposta antiga, mas ainda importante:
 
 * É seguro e não dá ban. Isso é um mod de idioma personalizado implementado pela própria PM, ele só altera os arquivos de localização.
-* A PM afirmou:
-
-> “Por favor note que modificações no cliente do jogo além dos arquivos de texto de idioma, como modificação de imagens do cliente ou dados internos do jogo, podem resultar em ações legais ou banimentos sem aviso prévio.”
+* A PM afirmou: “Por favor note que modificações no cliente do jogo além dos arquivos de texto de idioma, como modificação de imagens do cliente ou dados internos do jogo, podem resultar em ações legais ou banimentos sem aviso prévio.” [Link da Mensagem](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
 
 * Mas ainda está fora do uso pretendido, já que não é realmente outro idioma. Então a PM talvez não goste desse tipo de uso da implementação de idioma customizado; atualmente é uma área cinzenta.
 
@@ -182,6 +195,8 @@ Resposta antiga, mas ainda importante:
 # Sobre o Façade Projection (Sistema de Skin)
 
 ## Impossível de corrigir do meu lado. A PM precisa sobrescrever os dados de Speech Bubble da identidade base, porque o sistema usa apenas o Speech Bubble da identidade original.
+
+https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 
 ## Desvantagens & Problemas
 
